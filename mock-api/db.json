@@ -1,0 +1,36 @@
+{
+  "recipes": [
+    {
+      "id": 1,
+      "name": "recipe 1",
+      "author": "Aimee Oz"
+    },
+    {
+      "id": 2,
+      "name": "recipe 2",
+      "author": "Aimee Oz"
+    }
+  ],
+  "macros": [
+    {
+      "id": 1,
+      "kcal": 150,
+      "units": "grams",
+      "totalFat": 5,
+      "satFat": 1,
+      "totalCarb": 20,
+      "fiber": 5,
+      "protein": 10
+    },
+    {
+      "id": 2,
+      "kcal": 250,
+      "units": "grams",
+      "totalFat": 15,
+      "satFat": 1,
+      "totalCarb": 20,
+      "fiber": 5,
+      "protein": 10
+    }
+  ]
+}
