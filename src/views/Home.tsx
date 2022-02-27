@@ -6,6 +6,7 @@ export const Home = () => {
       <h1>👾🔥🤯🧨🤯🧨🤯🧨🤯🧨🤯🧨🤯🧨🤯🔥👾</h1>
 
       <Link to="/about">About</Link>
+      <Link to="/recipes">Recipes</Link>
     </>
   );
 };

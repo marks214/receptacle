@@ -3,12 +3,14 @@
     {
       "id": 1,
       "name": "recipe 1",
-      "author": "Aimee Oz"
+      "author": "Aimee Oz",
+      "ingredients": ["this", "and", "that"]
     },
     {
       "id": 2,
       "name": "recipe 2",
-      "author": "Aimee Oz"
+      "author": "Aimee Oz",
+      "ingredients": ["those", "and", "these"]
     }
   ],
   "macros": [
